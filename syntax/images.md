@@ -3,10 +3,10 @@
 ```markdown
 # Inline
 ![Alternative text](/path/to/img.jpg "Optional title")
-
+![ma photo](http://octodex.github.com/images/octdrey-catburn.jpg)
 # Reference
-![Alternative text][id]
-[id]: url/to/image  "Optional title"
+![Une autre image][image 2]
+[image  ]:http://octodex.github.com/images/founding-father.jpg
 ```
 Comme vous avez dû le remarquer, les images en Markdown sont très semblables aux liens.  
 La différence est la suivante :
